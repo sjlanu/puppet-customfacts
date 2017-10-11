@@ -14,7 +14,8 @@
 
 ## Description
 
-Customfacts from Windows clients with powershell scripts.
+
+Gather customfacts from Windows clients with powershell scripts.
 Currently services and installed software.
 Scripts in facts.d folder
 
@@ -22,9 +23,7 @@ Scripts in facts.d folder
 
 ### Beginning with customfacts
 
-The very basic steps needed for a user to get the module up and running. This
-can include setup steps, if necessary, or it can be an example of the most
-basic use of the module.
+Add module customfacts to environment
 
 ## Usage
 
